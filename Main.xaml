@@ -64,7 +64,7 @@
         <OutArgument x:TypeArguments="x:String">[test]</OutArgument>
       </Assign.To>
       <Assign.Value>
-        <InArgument x:TypeArguments="x:String">test</InArgument>
+        <InArgument x:TypeArguments="x:String">test2</InArgument>
       </Assign.Value>
     </Assign>
   </Sequence>
